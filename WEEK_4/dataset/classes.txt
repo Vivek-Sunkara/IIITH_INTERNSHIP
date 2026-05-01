@@ -1,0 +1,6 @@
+bike
+car
+person
+traffic light
+truck
+van
